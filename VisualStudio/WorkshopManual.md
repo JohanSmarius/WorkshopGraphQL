@@ -14,7 +14,7 @@ You will learn how to:
 - Add paging to the service.
 - Add mutation functionality to the service.
 
-The entire workshop is divided into a number of steps. You should follow the steps in the indicated order. If you run into problems or have any questions, just ask Johan.
+The entire workshop is divided into a number of steps. You should follow the steps in the indicated order. If you run into problems or have any questions, just ask Johan or look at the completed code in the folder `Completed code` that is part of this repo.
 
 ## GraphQL support in C#/.NET
 Unfortunately, there is no native support for GraphQL in ASP.NET Core or any other part of .NET. There are some good open-source projects that allow us to build GraphQL servers in C#. There are 2 popular projects:
